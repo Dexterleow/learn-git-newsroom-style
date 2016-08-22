@@ -1,29 +1,30 @@
-June 27, 2016
+August 22, 2016
+Strait Times
 25 cents
 
 # The Bugle Herald
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+* Just another boring Monday
+* All work and no play makes Dexter a Dull Boy
 
 ## Sports
-* headline
-* headline
+* Ah Joe Won Gold in Olympic
+* Awesome News for SG
 
 ## Culture
-* headline
-* headline
+* SG Gov wants to give us all 10 million each
+* yay!
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    Scattered Thunderstorms
+Monday:    32 C. Mostly Cloudy
+Tuesday:   Scattered Thunderstorms
+Wednesday: Scattered Thunderstorms
+Thursday:  Scattered Thunderstorms
+Friday:    Scattered Thunderstorms
+Saturday:  Scattered Thunderstorms
 
-June 27, 2016
+August 22, 2016
 25 cents
